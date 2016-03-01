@@ -1,7 +1,7 @@
 # Stopwatch _(App Project)_
 **Norwalk High School:** PLTW bound
 
-Computer Science  geek  first year *(Sophomores)*
+Computer Science  geek  first year *(Sophomore)*
 
 This app will show my skill on app making and will show to the class 
 
