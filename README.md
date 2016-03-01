@@ -1,7 +1,7 @@
-# stopwatch (App Project)
-Norwalk high school: PLTW bound
+# Stopwatch _(App Project)_
+**Norwalk High School:** PLTW bound
 
-Computer science  geek  first year (sophomores)
+Computer Science  geek  first year *(Sophomores)*
 
 This app will show my skill on app making and will show to the class 
 
@@ -11,7 +11,7 @@ This app will show my skill on app making and will show to the class
 
 
 
-# APP WORKING
+## APP WORKING :+1: :sparkles: :tada:
 ![Alt text](https://github.com/obama23/stopwatch/blob/master/screenshots/Capture.JPG)
-# APP STRATS
+## APP STRATS :+1: :metal:
 ![Alt text](https://github.com/obama23/stopwatch/blob/master/screenshots/another1.JPG)
