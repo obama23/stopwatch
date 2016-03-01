@@ -1,4 +1,4 @@
-# Stopwatch _(App Project)_
+# Stopwatch :clock1: _(App Project)_ 
 **Norwalk High School:** PLTW bound
 
 Computer Science  geek  first year *(Sophomore)*
